@@ -3,7 +3,8 @@ Used Dagger, rxjava and Retrofit to make a simple networking call
 
 # Dependecies 
 Incase of any issues arising from these dependencies, please copy them to the browser and search for the latest dependencies
-//Dagger Dependency
+
+
     def dagger = "2.23.2"
     implementation "com.google.dagger:dagger-android:$dagger"
     api "com.google.dagger:dagger-android-support:$dagger" // if you use the support libraries
