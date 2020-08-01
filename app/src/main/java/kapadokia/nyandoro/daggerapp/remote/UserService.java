@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 
 public interface UserService {
 
-    @GET("/users/2")
+    @GET("/users/3")
     Single<UserModel> getUserModel();
 }
